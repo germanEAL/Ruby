@@ -1,0 +1,1 @@
+puts 'TTPS Ruby'.object_id == 'TTPS Ruby'.
